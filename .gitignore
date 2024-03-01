@@ -1,0 +1,41 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Javadoc
+/doc/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Windows folder config file
+Thumbs.db
+
+# macOS folder config file
+.DS_Store
+
+# Gradle
+.gradle/
+
+# User-specific files
+*.iml
+*.iws
+*.ipr
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt.user

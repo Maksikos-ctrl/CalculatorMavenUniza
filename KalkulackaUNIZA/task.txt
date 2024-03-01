@@ -1,0 +1,19 @@
+GUI kalkulačka
+Vytvorte jednoduchú GUI kalkulačku. Kalkulačka by mala mať základné aritmetické funkcie (sčítanie,
+odčítanie, násobenie, delenie) a byť schopná vykonávať výpočty na základe užívateľského vstupu cez
+tlačidlá. GUI by malo byť intuitívne a ľahko použiteľné.
+
+Požiadavky:
+Využiť layout managery (nie null) aby sa dokázala čo najlepšie prispôsobiť oknu (viď. Windows
+kalkulačka)
+Implementácia základných aritmetických operácií: sčítanie, odčítanie, násobenie, delenie.
+Možnosť vstupu čísel a operátorov pomocou tlačidiel.
+
+Zobrazenie výsledku v rozhraní.
+Manipulácia s výsledkom (vymazanie, nulovanie, možnosť pokračovať v ďalšom výpočte).
+
+Ošetrenie neplatného vstupu a delenia nulou.
+Nepovinné:
+Možnosť implementácie ďalších pokročilých f
+
+
